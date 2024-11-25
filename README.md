@@ -7,7 +7,9 @@ I enjoy cooking, reading, write tech blog.
 Have questions or just want to say hi? Feel free to reach out to me through any of the following channels:
 
 Email: nhandev10@gmail.com
+
 LinkedIn: Tran Huu Nhan
 
 Best regards,
-Cuong Nguyen
+
+Tran Nhan
