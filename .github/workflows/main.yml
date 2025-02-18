@@ -16,7 +16,7 @@ jobs:
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.40.0'  # Chọn phiên bản Hugo phù hợp
+        hugo-version: '0.144.0'
 
     - name: Remove old publication
       run: rm -rf public
