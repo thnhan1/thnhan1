@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Thay "main" bằng tên nhánh của bạn
+      - main 
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.144.0'
+        hugo-version: '0.144.0' 
 
     - name: Remove old publication
       run: rm -rf public
@@ -42,6 +42,11 @@ jobs:
         echo "clientID = '${{ secrets.GITALK_CLIENT_ID }}'" >> hugo.toml
         echo "clientSecret = '${{ secrets.GITALK_CLIENT_SECRET }}'" >> hugo.toml
         HUGO_ENV="production" hugo -t github-style
+
+    - name: Configure git
+      run: |
+        git config --global user.email "nhandev10@gmail.com"
+        git config --global user.name "Tran Huu Nhan"
 
     - name: Update gh-pages branch
       run: |
