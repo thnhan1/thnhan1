@@ -5,10 +5,8 @@
 📭Get in Touch
 I am familiar with Java Ecosystem Spring Framework, and Nodejs, typescript, golang.
 Have questions or offer? Contact to me through these channels:
-- Email: nhandev10@gmail.com
 - LinkedIn: [Huu Nhan Tran](https://www.linkedin.com/in/huunhantran10/)
 - Blog: [Nhan Blog](https://thnhan1.github.io)
 
 Best regards,
-
 Tran Nhan
