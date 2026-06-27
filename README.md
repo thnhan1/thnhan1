@@ -1,7 +1,6 @@
 # Tran Huu Nhan
 😁 Hey! I'm **Tran Huu Nhan**, A Passionate **Java** developer focused on building robust and scalable applications. I enjoy tackling complex challenges with clean, efficient code.
 
-
 📭Get in Touch
 I am familiar with Java Ecosystem Spring Framework, and Nodejs, typescript, golang.
 Have questions or offer? Contact to me through these channels:
@@ -10,3 +9,5 @@ Have questions or offer? Contact to me through these channels:
 
 Best regards,
 Nhan
+
+<img src="https://i.postimg.cc/Sx1t87v7/ezgif-com-effects.gif" alt="cat not found" />
