@@ -9,7 +9,7 @@ Code on Weekend!
 Other versions
 
 ## Nhân Android Developer
-github: thnhan1
+github: thnhan2
 
 ## Nhân AI, DL, NLP
 hugging-face: thnhan3
