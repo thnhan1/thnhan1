@@ -4,7 +4,15 @@
 📭Get in Touch
 I am familiar with Java Ecosystem Spring Framework, and Nodejs, typescript.
 
-AI Make Software Development Better
+Code on Weekend!
+
+Other versions
+
+## Nhân Android Developer
+github: thnhan1
+
+## Nhân AI, DL, NLP
+hugging-face: thnhan3
 
 Contact
 - LinkedIn: [Huu Nhan Tran](https://www.linkedin.com/in/huunhantran10/)
